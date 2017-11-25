@@ -1,0 +1,1 @@
+The goal of this project is to develop methods using recursion and iteration to solve the fibonacci sequence and recursion to solve merge sort.
